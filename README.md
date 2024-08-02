@@ -1,11 +1,13 @@
 # Synthesizing data
 
 **Datasets**
+
 1. Core demographic HR dataset
 2. Total Rewards dataset
 3. Attrition dataset
 
 **Dimension tables**
+
 4. Date dimension table
 5. Time dimension table
 6. Geographical dimension table
