@@ -11,8 +11,8 @@
 
 **Dimension tables**
 
-4. Date dimension table
-5. Time dimension table
+7. Date dimension table
+8. Time dimension table
 
 ## HR datasets
 
@@ -72,14 +72,14 @@ Essential for data warehouses and for conducting time-series and location-based 
 
 **Key features:**
 
-4. Date dimension table
+7. Date dimension table
    - year, quarter, month and day information in number and plain letters format
    - hierarchical date information (e.g., day/week/month/quarter of the year)
    - other calendar frameworks (Julian & epoch time)
    - characterization such as leap year or weekend information
    - seasonality (fiscal & weather-related)
 
-5. Time dimension tables
+8. Time dimension tables
    - different time formats (ISO, AM/PM, 24h, military)
    - time granularity (hour, minute, second of the day)
    - classification of day (work shifts, time periods, identification of business hours)
